@@ -352,6 +352,24 @@ Areeya Luxsananun
 <td>KK, AL</td>
 <td>PL</td>
 </tr>
+<tr class="even">
+<td>FindColor Project Proposal</td>
+<td><p>Project proposal</p>
+<p>_V.2.4</p></td>
+<td><p>Edit Chapter 3</p>
+<p>Edit Chapter 5</p>
+<ul>
+<li><p>Edit Motivation</p></li>
+<li><p>Edit Deliverables and Limits</p></li>
+<li><p>Edit Feature</p></li>
+<li><p>Edit User Journey</p></li>
+</ul>
+<p>Add Definition and Description</p></td>
+<td>Edit</td>
+<td>24/05/2024</td>
+<td>KK, AL</td>
+<td>PL</td>
+</tr>
 </tbody>
 </table>
 
@@ -366,191 +384,192 @@ Areeya Luxsananun
 **Table of content**
 
 [Chapter 1 | Introduction and Rationale
-[9](#chapter-1-introduction-and-rationale)](#chapter-1-introduction-and-rationale)
+[10](#chapter-1-introduction-and-rationale)](#chapter-1-introduction-and-rationale)
 
 [Chapter 2 | Literature Review
-[10](#chapter-2-literature-review)](#chapter-2-literature-review)
+[11](#chapter-2-literature-review)](#chapter-2-literature-review)
 
-[2.1 Business Review [10](#business-review)](#business-review)
+[2.1 Business Review [11](#business-review)](#business-review)
 
-[2.1.1 Overview [10](#overview)](#overview)
+[2.1.1 Overview [11](#overview)](#overview)
 
-[2.1.2 Target [10](#target)](#target)
+[2.1.2 Target [11](#target)](#target)
 
-[2.1.2.1 Problems [10](#problems)](#problems)
+[2.1.2.1 Problems [11](#problems)](#problems)
 
-[2.1.2.2 Solutions [10](#solutions)](#solutions)
+[2.1.2.2 Solutions [11](#solutions)](#solutions)
 
-[2.1.3 Benefits [10](#benefits)](#benefits)
+[2.1.3 Benefits [11](#benefits)](#benefits)
 
 [2.2 Business Tools / Software Review
-[11](#business-tools-software-review)](#business-tools-software-review)
+[12](#business-tools-software-review)](#business-tools-software-review)
 
-[2.2.1 ColorloveLab [11](#colorlovelab)](#colorlovelab)
+[2.2.1 ColorloveLab [12](#colorlovelab)](#colorlovelab)
 
 [2.2.2 Vivaldi Color Lab / vivaldicolor.com
-[12](#vivaldi-color-lab-vivaldicolor.com)](#vivaldi-color-lab-vivaldicolor.com)
+[13](#vivaldi-color-lab-vivaldicolor.com)](#vivaldi-color-lab-vivaldicolor.com)
 
-[2.2.3 Visée [13](#visée)](#visée)
+[2.2.3 Visée [14](#visée)](#visée)
 
 [2.2.4 Feature Comparison
-[15](#feature-comparison)](#feature-comparison)
+[16](#feature-comparison)](#feature-comparison)
 
 [Chapter 3 | Development Tools Review
-[16](#chapter-3-development-tools-review)](#chapter-3-development-tools-review)
+[17](#chapter-3-development-tools-review)](#chapter-3-development-tools-review)
 
-[3.1 Technology Review [21](#technology-review)](#technology-review)
+[3.1 Technology Review [22](#technology-review)](#technology-review)
 
 [Chapter 4 | Quality Standard
-[26](#chapter-4-quality-standard)](#chapter-4-quality-standard)
+[27](#chapter-4-quality-standard)](#chapter-4-quality-standard)
 
 [4.1 Project Management Process
-[26](#project-management-process)](#project-management-process)
+[27](#project-management-process)](#project-management-process)
 
 [4.2 Software implementation process
-[26](#software-implementation-process)](#software-implementation-process)
+[27](#software-implementation-process)](#software-implementation-process)
 
-[4.3 Naming Convention [26](#naming-convention)](#naming-convention)
+[4.3 Naming Convention [27](#naming-convention)](#naming-convention)
 
-[4.4 Change Management [26](#change-management)](#change-management)
+[4.4 Change Management [28](#change-management)](#change-management)
 
-[4.5 Project Repository [27](#project-repository)](#project-repository)
+[4.5 Project Repository [28](#project-repository)](#project-repository)
 
 [Chapter 5 Literature Review
-[28](#chapter-5-literature-review)](#chapter-5-literature-review)
+[29](#chapter-5-literature-review)](#chapter-5-literature-review)
 
-[5.1 Motivation [28](#motivation)](#motivation)
+[5.1 Motivation [29](#motivation)](#motivation)
 
-[5.2 Aims and Objectivee [28](#aims-and-objective)](#aims-and-objective)
+[5.2 Aims and Objective [29](#aims-and-objective)](#aims-and-objective)
 
-[5.2.1 Aims [28](#aims)](#aims)
+[5.2.1 Aims [29](#aims)](#aims)
 
-[5.2.2 Objective [28](#objective)](#objective)
+[5.2.2 Objective [29](#objective)](#objective)
 
 [5.3 Deliverables and Limits
-[29](#deliverables-and-limits)](#deliverables-and-limits)
+[30](#deliverables-and-limits)](#deliverables-and-limits)
 
-[5.3.1 Deliverables [29](#deliverables)](#deliverables)
+[5.3.1 Deliverables [30](#deliverables)](#deliverables)
 
-[5.3.2 Limits [29](#limits)](#limits)
+[5.3.2 Limits [30](#limits)](#limits)
 
 [5.4 System Architecture
-[30](#system-architecture)](#system-architecture)
+[31](#system-architecture)](#system-architecture)
 
-[5.5 Software Process [31](#software-process)](#software-process)
+[5.5 Software Process [32](#software-process)](#software-process)
 
-[5.6 Feature [32](#feature)](#feature)
+[5.6 Feature [33](#feature)](#feature)
 
-[5.7 User Journey [33](#user-journey)](#user-journey)
+[5.7 User Journey [34](#user-journey)](#user-journey)
 
-[5.8 Schedule Plan [44](#schedule-plan)](#schedule-plan)
+[5.8 Schedule Plan [42](#schedule-plan)](#schedule-plan)
 
-[5.8.1 Progress Report [44](#progress-report)](#progress-report)
+[5.8.1 Progress Report [42](#progress-report)](#progress-report)
 
-[5.8.2 Milestone [44](#milestone)](#milestone)
+[5.8.2 Milestone [42](#milestone)](#milestone)
 
-[Chapter 6 References [48](#section-1)](#section-1)
+[Chapter 6 References
+[46](#chapter-6-references)](#chapter-6-references)
+
+[Definition & Description
+[48](#definition-description)](#definition-description)
 
 **List of Figure**
 
-[**Figure** ColorloveLab [11](#_Toc166102555)](#_Toc166102555)
+[**Figure** ColorloveLab [11](#_Toc167848327)](#_Toc167848327)
 
 [**Figure 2** ColorloverLab AR Color
-[11](#_Toc166102556)](#_Toc166102556)
+[11](#_Toc167848328)](#_Toc167848328)
 
-[**Figure 3** Vivaldi Color Lab [12](#_Toc166102557)](#_Toc166102557)
+[**Figure 3** Vivaldi Color Lab [12](#_Toc167848329)](#_Toc167848329)
 
 [**Figure 4** Vivaldi Color Lab Test Undertone
-[12](#_Toc166102558)](#_Toc166102558)
+[12](#_Toc167848330)](#_Toc167848330)
 
 [**Figure 5** Vivaldi Color Lab AI Stylist
-[13](#_Toc166102559)](#_Toc166102559)
+[13](#_Toc167848331)](#_Toc167848331)
 
 [**Figure 6** Visée AI Personal Color Finder
-[13](#_Toc166102560)](#_Toc166102560)
+[13](#_Toc167848332)](#_Toc167848332)
 
 [**Figure 7** Visée AI Personal Color Finder Result
-[14](#_Toc166102561)](#_Toc166102561)
+[14](#_Toc167848333)](#_Toc167848333)
 
-[**Figure 8** Visual Studio Code [16](#_Toc166102562)](#_Toc166102562)
+[**Figure 8** Visual Studio Code [16](#_Toc167848334)](#_Toc167848334)
 
-[**Figure 9** PyCharm [16](#_Toc166102563)](#_Toc166102563)
+[**Figure 9** PyCharm [16](#_Toc167848335)](#_Toc167848335)
 
-[**Figure 10** GitHub [17](#_Toc166102564)](#_Toc166102564)
+[**Figure 10** GitHub [17](#_Toc167848336)](#_Toc167848336)
 
-[**Figure 11** Figma [18](#_Toc166102565)](#_Toc166102565)
+[**Figure 11** Figma [18](#_Toc167848337)](#_Toc167848337)
 
-[**Figure 12** Docker [18](#_Toc166102566)](#_Toc166102566)
+[**Figure 12** Docker [18](#_Toc167848338)](#_Toc167848338)
 
-[**Figure 13** Git Fork [19](#_Toc166102567)](#_Toc166102567)
+[**Figure 13** Git Fork [19](#_Toc167848339)](#_Toc167848339)
 
-[**Figure 14** Balsamiq [19](#_Toc166102568)](#_Toc166102568)
+[**Figure 14** Balsamiq [19](#_Toc167848340)](#_Toc167848340)
 
-[**Figure 15** Microsoft Excel [20](#_Toc166102569)](#_Toc166102569)
+[**Figure 15** Microsoft Excel [20](#_Toc167848341)](#_Toc167848341)
 
-[**Figure 16** Vue.js [21](#_Toc166102570)](#_Toc166102570)
+[**Figure 16** Vue.js [21](#_Toc167848342)](#_Toc167848342)
 
-[**Figure 17** OpenAI API [21](#_Toc166102571)](#_Toc166102571)
+[**Figure 17** OpenAI API [21](#_Toc167848343)](#_Toc167848343)
 
-[**Figure 18** CSS [22](#_Toc166102572)](#_Toc166102572)
+[**Figure 18** CSS [22](#_Toc167848344)](#_Toc167848344)
 
-[**Figure 19** HTML [22](#_Toc166102573)](#_Toc166102573)
+[**Figure 19** HTML [22](#_Toc167848345)](#_Toc167848345)
 
-[**Figure 20** Python [23](#_Toc166102574)](#_Toc166102574)
+[**Figure 20** Python [23](#_Toc167848346)](#_Toc167848346)
 
-[**Figure 21** OpenCV [23](#_Toc166102575)](#_Toc166102575)
+[**Figure 21** OpenCV [23](#_Toc167848347)](#_Toc167848347)
 
-[**Figure 22** MySQL [24](#_Toc166102576)](#_Toc166102576)
+[**Figure 22** MySQL [24](#_Toc167848348)](#_Toc167848348)
 
-[**Figure 23** Flask [24](#_Toc166102577)](#_Toc166102577)
+[**Figure 23** Flask [24](#_Toc167848349)](#_Toc167848349)
 
-[**Figure 24** Web Scraper.io [25](#_Toc166102578)](#_Toc166102578)
+[**Figure 24** Web Scraper.io [25](#_Toc167848350)](#_Toc167848350)
 
-[**Figure 25** System Architecture [30](#_Toc166102579)](#_Toc166102579)
+[**Figure 25** System Architecture [30](#_Toc167848351)](#_Toc167848351)
 
-[**Figure 26** Software Process [31](#_Toc166102580)](#_Toc166102580)
+[**Figure 26** Software Process [31](#_Toc167848352)](#_Toc167848352)
 
-[**Figure 27** UI-001: Homepage [33](#_Toc166102581)](#_Toc166102581)
+[**Figure 27** UI-001: Homepage [33](#_Toc167848353)](#_Toc167848353)
 
 [**Figure 28** UI-002: Upload Image page
-[34](#_Toc166102582)](#_Toc166102582)
+[34](#_Toc167848354)](#_Toc167848354)
 
 [**Figure 29** UI-003: Choose Color Tone page
-[35](#_Toc166102583)](#_Toc166102583)
+[35](#_Toc167848355)](#_Toc167848355)
 
 [**Figure 30** UI-004: Virtual Try-On page
-[36](#_Toc166102584)](#_Toc166102584)
+[36](#_Toc167848356)](#_Toc167848356)
 
 [**Figure 31** UI-005: Virtual Try-On of Select color page
-[37](#_Toc166102585)](#_Toc166102585)
+[36](#_Toc167848357)](#_Toc167848357)
 
 [**Figure 32** UI-006: List of Cosmetics Brands page
-[38](#_Toc166102586)](#_Toc166102586)
+[37](#_Toc167848358)](#_Toc167848358)
 
 [**Figure 33** UI-007: List of Products page
-[39](#_Toc166102587)](#_Toc166102587)
+[38](#_Toc167848359)](#_Toc167848359)
 
 [**Figure 34** UI-008: List of Lip Products page
-[40](#_Toc166102588)](#_Toc166102588)
+[39](#_Toc167848360)](#_Toc167848360)
 
 [**Figure 35** UI-009: Product page
-[41](#_Toc166102589)](#_Toc166102589)
+[40](#_Toc167848361)](#_Toc167848361)
 
-[**Figure 36** UI-010: Shade No.1 of Product page
-[42](#_Toc166102590)](#_Toc166102590)
+[**Figure 36** UI-010: Virtual Try-On of Select Product page
+[40](#_Toc167848362)](#_Toc167848362)
 
-[**Figure 37** UI-011: Virtual Try-On of Select Product page
-[43](#_Toc166102591)](#_Toc166102591)
+[**Figure 37** Phase 1. Proposal [41](#_Toc167848363)](#_Toc167848363)
 
-[**Figure 38** Phase 1. Proposal [44](#_Toc166102592)](#_Toc166102592)
+[**Figure 38** Phase 2. Progress I [42](#_Toc167848364)](#_Toc167848364)
 
-[**Figure 39** Phase 2. Progress I [45](#_Toc166102593)](#_Toc166102593)
+[**Figure 39** Phase 3. Progress II
+[43](#_Toc167848365)](#_Toc167848365)
 
-[**Figure 40** Phase 3. Progress II
-[46](#_Toc166102594)](#_Toc166102594)
-
-[**Figure 41** Phase 4. Final Progress
-[47](#_Toc166102595)](#_Toc166102595)
+[**Figure 40** Phase 4. Final Progress
+[44](#_Toc167848366)](#_Toc167848366)
 
 # Chapter 1 | Introduction and Rationale
 
@@ -639,7 +658,7 @@ alt="รูปภาพประกอบด้วย ข้อความ, ภ
 alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 <img src="media/image5.png" style="width:1.34583in;height:2.92014in" />
 
-<span id="_Toc166102555" class="anchor"></span>**Figure 1** ColorloveLab
+<span id="_Toc167848327" class="anchor"></span>**Figure 1** ColorloveLab
 
 ColorloverLab is an application in which users can test their personal
 color and provide information on the result, such as the color clothes,
@@ -650,7 +669,7 @@ scheme with other users who have the same color. <sup>\[1\]</sup>
 <img src="media/image6.jpeg" style="width:1.34753in;height:2.75193in"
 alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102556" class="anchor"></span>**Figure 2**
+<span id="_Toc167848328" class="anchor"></span>**Figure 2**
 ColorloverLab AR Color
 
 <table>
@@ -686,13 +705,13 @@ page.</p></td>
 <img src="media/image7.png" style="width:3.89765in;height:2.10145in"
 alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ซอฟต์แวร์, หน้าเว็บ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102557" class="anchor"></span>**Figure 3** Vivaldi
+<span id="_Toc167848329" class="anchor"></span>**Figure 3** Vivaldi
 Color Lab
 
 <img src="media/image8.png" style="width:3.96104in;height:2.14004in"
 alt="รูปภาพประกอบด้วย ข้อความ, ใบหน้าของมนุษย์, ภาพหน้าจอ, คน คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102558" class="anchor"></span>**Figure 4** Vivaldi
+<span id="_Toc167848330" class="anchor"></span>**Figure 4** Vivaldi
 Color Lab Test Undertone
 
 Vivaldi Color Lab is a comparison color tool that is suitable for users'
@@ -703,7 +722,7 @@ application.<sup>\[2\]</sup>
 <img src="media/image9.png" style="width:3.91635in;height:2.1137in"
 alt="รูปภาพประกอบด้วย ใบหน้าของมนุษย์, ภาพหน้าจอ, มัลติมีเดีย, ซอฟต์แวร์มัลติมีเดีย คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102559" class="anchor"></span>**Figure 5** Vivaldi
+<span id="_Toc167848331" class="anchor"></span>**Figure 5** Vivaldi
 Color Lab AI Stylist
 
 <table>
@@ -737,7 +756,7 @@ hair, and it is a premium service.</p></td>
 <img src="media/image11.png" style="width:1.16717in;height:1.95843in"
 alt="รูปภาพประกอบด้วย ข้อความ, ใบหน้าของมนุษย์, ภาพหน้าจอ, หญิง คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102560" class="anchor"></span>**Figure 6** Visée AI
+<span id="_Toc167848332" class="anchor"></span>**Figure 6** Visée AI
 Personal Color Finder
 
 Visée is a cosmetic brand website <sup>\[3\]</sup> that offers AI
@@ -751,7 +770,7 @@ alt="รูปภาพประกอบด้วย ใบหน้าขอ�
 <img src="media/image13.png" style="width:1.2715in;height:2.14032in"
 alt="รูปภาพประกอบด้วย ข้อความ, ใบหน้าของมนุษย์, ภาพหน้าจอ, ซอฟต์แวร์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102561" class="anchor"></span>**Figure 7** Visée AI
+<span id="_Toc167848333" class="anchor"></span>**Figure 7** Visée AI
 Personal Color Finder Result
 
 <table>
@@ -833,7 +852,7 @@ are similar to the users'.</td>
 <img src="media/image14.jpg" style="width:1.66326in;height:1.66326in"
 alt="Visual Studio Code - YouTube" />
 
-<span id="_Toc166102562" class="anchor"></span>**Figure 8** Visual
+<span id="_Toc167848334" class="anchor"></span>**Figure 8** Visual
 Studio Code
 
 **Description**
@@ -856,7 +875,7 @@ Studio Code
 <img src="media/image15.png" style="width:1.41981in;height:1.41981in"
 alt="Python Tool Review: Using PyCharm for Python Development - and More | Caktus Group" />
 
-<span id="_Toc166102563" class="anchor"></span>**Figure 9** PyCharm
+<span id="_Toc167848335" class="anchor"></span>**Figure 9** PyCharm
 
 **Description**
 
@@ -876,7 +895,7 @@ alt="Python Tool Review: Using PyCharm for Python Development - and More | Caktu
 
 <img src="media/image16.png" style="width:1.46679in;height:1.30011in" />
 
-<span id="_Toc166102564" class="anchor"></span>**Figure 10** GitHub
+<span id="_Toc167848336" class="anchor"></span>**Figure 10** GitHub
 
 **Description**
 
@@ -898,7 +917,7 @@ alt="Python Tool Review: Using PyCharm for Python Development - and More | Caktu
 
 <img src="media/image17.png" style="width:0.85088in;height:1.27325in" />
 
-<span id="_Toc166102565" class="anchor"></span>**Figure 11** Figma
+<span id="_Toc167848337" class="anchor"></span>**Figure 11** Figma
 
 **Description**
 
@@ -918,7 +937,7 @@ alt="Python Tool Review: Using PyCharm for Python Development - and More | Caktu
 <img src="media/image18.png" style="width:1.62281in;height:1.3884in"
 alt="Docker - Visual Studio Marketplace" />
 
-<span id="_Toc166102566" class="anchor"></span>**Figure 12** Docker
+<span id="_Toc167848338" class="anchor"></span>**Figure 12** Docker
 
 **Description**
 
@@ -938,7 +957,7 @@ alt="Docker - Visual Studio Marketplace" />
 <img src="media/image19.png" style="width:1.77719in;height:1.77719in"
 alt="GitHub - fork-dev/Tracker: Bug and issue tracker for Fork for Mac" />
 
-<span id="_Toc166102567" class="anchor"></span>**Figure 13** Git Fork
+<span id="_Toc167848339" class="anchor"></span>**Figure 13** Git Fork
 
 **Description**
 
@@ -962,7 +981,7 @@ alt="GitHub - fork-dev/Tracker: Bug and issue tracker for Fork for Mac" />
 <img src="media/image20.png" style="width:1.58065in;height:1.58065in"
 alt="Balsamiq (@balsamiq) / X" />
 
-<span id="_Toc166102568" class="anchor"></span>**Figure 14** Balsamiq
+<span id="_Toc167848340" class="anchor"></span>**Figure 14** Balsamiq
 
 **Description**
 
@@ -982,7 +1001,7 @@ alt="Balsamiq (@balsamiq) / X" />
 <img src="media/image21.png" style="width:1.58163in;height:1.47146in"
 alt="undefined" />
 
-<span id="_Toc166102569" class="anchor"></span>**Figure 15** Microsoft
+<span id="_Toc167848341" class="anchor"></span>**Figure 15** Microsoft
 Excel
 
 **Description**
@@ -1009,7 +1028,7 @@ Excel
 <img src="media/image22.png" style="width:1.58323in;height:1.3723in"
 alt="Vue.js - Wikipedia" />
 
-<span id="_Toc166102570" class="anchor"></span>**Figure 16** Vue.js
+<span id="_Toc167848342" class="anchor"></span>**Figure 16** Vue.js
 
 **Description**
 
@@ -1029,7 +1048,7 @@ alt="Vue.js - Wikipedia" />
 <img src="media/image23.png" style="width:2.19084in;height:1.21136in"
 alt="Calling OpenAI API Service using Python | by Renjith Ravindranathan | techbeatly | Medium" />
 
-<span id="_Toc166102571" class="anchor"></span>**Figure 17** OpenAI API
+<span id="_Toc167848343" class="anchor"></span>**Figure 17** OpenAI API
 
 **Description**
 
@@ -1049,7 +1068,7 @@ alt="Calling OpenAI API Service using Python | by Renjith Ravindranathan | techb
 <img src="media/image24.png" style="width:2.17704in;height:1.36042in"
 alt="CSS logo and symbol, meaning, history, PNG" />
 
-<span id="_Toc166102572" class="anchor"></span>**Figure 18** CSS
+<span id="_Toc167848344" class="anchor"></span>**Figure 18** CSS
 
 **Description**
 
@@ -1072,7 +1091,7 @@ alt="CSS logo and symbol, meaning, history, PNG" />
 <img src="media/image25.png" style="width:3.04545in;height:1.52435in"
 alt="HTML5 Logo Unveiled – The Future of the Web" />
 
-<span id="_Toc166102573" class="anchor"></span>**Figure 19** HTML
+<span id="_Toc167848345" class="anchor"></span>**Figure 19** HTML
 
 **Description**
 
@@ -1093,7 +1112,7 @@ alt="HTML5 Logo Unveiled – The Future of the Web" />
 <img src="media/image26.png" style="width:1.30108in;height:1.42534in"
 alt="Python (programming language) - Wikipedia" />
 
-<span id="_Toc166102574" class="anchor"></span>**Figure 20** Python
+<span id="_Toc167848346" class="anchor"></span>**Figure 20** Python
 
 **Description**
 
@@ -1115,7 +1134,7 @@ alt="Python (programming language) - Wikipedia" />
 <img src="media/image27.png" style="width:1.18182in;height:1.45581in"
 alt="OpenCV - Wikipedia" />
 
-<span id="_Toc166102575" class="anchor"></span>**Figure 21** OpenCV
+<span id="_Toc167848347" class="anchor"></span>**Figure 21** OpenCV
 
 **Description**
 
@@ -1130,7 +1149,7 @@ alt="OpenCV - Wikipedia" />
 <img src="media/image28.png" style="width:1.66792in;height:0.86337in"
 alt="รูปภาพประกอบด้วย กราฟิก, ตัวอักษร, การออกแบบกราฟิก, เครื่องหมาย คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102576" class="anchor"></span>**Figure 22** MySQL
+<span id="_Toc167848348" class="anchor"></span>**Figure 22** MySQL
 
 **Description**
 
@@ -1151,7 +1170,7 @@ alt="รูปภาพประกอบด้วย กราฟิก, ตั
 <img src="media/image29.png" style="width:2.78621in;height:1.09127in"
 alt="Flask คืออะไร | DekCom Doesystem" />
 
-<span id="_Toc166102577" class="anchor"></span>**Figure 23** Flask
+<span id="_Toc167848349" class="anchor"></span>**Figure 23** Flask
 
 **Description**
 
@@ -1171,7 +1190,7 @@ alt="Flask คืออะไร | DekCom Doesystem" />
 <img src="media/image30.jpeg" style="width:1.96736in;height:1.96736in"
 alt="Web Scraper - YouTube" />
 
-<span id="_Toc166102578" class="anchor"></span>**Figure 24** Web
+<span id="_Toc167848350" class="anchor"></span>**Figure 24** Web
 Scraper.io
 
 **Description**
@@ -1285,43 +1304,43 @@ context.
 <td>Project Proposal</td>
 <td>FindColor-Proposal V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 <tr class="even">
 <td>Project Plan</td>
 <td>FindColor-ProjectPlan V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 <tr class="odd">
 <td>Software Requirement Specification</td>
 <td>FindColor-SRS V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 <tr class="even">
 <td>Software Design Document</td>
 <td>FindColor-SDD V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 <tr class="odd">
 <td>Test Plan</td>
 <td>FindColor-TestPlan V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 <tr class="even">
 <td>Test Record</td>
 <td>FindColor-TestRecord V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 <tr class="odd">
 <td>Traceability Record</td>
 <td>FindColor- TraceabilityRecord V.[Version]</td>
 <td>.docx</td>
-<td>1.0</td>
+<td>2.0</td>
 </tr>
 </tbody>
 </table>
@@ -1337,7 +1356,7 @@ The makeup market has existing gaps about the need for centralized
 resources in the information of comparison color shade on skin tone that
 can make issues for customers in search to purchase and feel nervous. We
 have explored and experienced the problem that people find when they try
-to look for makeup products to buy and we want to make a web server with
+to look for makeup products to buy and we want to make a website with
 reliable information from the brands on the website to solve the problem
 people encounter.
 
@@ -1345,7 +1364,7 @@ people encounter.
 
 ### 5.2.1 Aims
 
-We aim to provide a platform to simplify and reduce the time spent |
+We aim to provide a platform to simplify and reduce the time spent
 searching for information on each cosmetics brand-to find the right
 product, so users feel convenient using it, such as categories and
 filter options, to help them quickly find what they're looking for.
@@ -1386,11 +1405,11 @@ users.
 
 > \- The system requires an internet connection
 >
-> \- The system supports uploading or inserting only an image from the
-> device.
+> \- The system supports taking a picture, uploading, or inserting only
+> an image from the device.
 >
-> \- The color of each cosmetics product category is compared to color
-> tones based on season in personal color criteria.
+> \- Season color tone of each product color shade is based on OpenAI
+> analysis.
 >
 > \- The data collected from five cosmetics brands, including Cathy
 > Doll, 4U2 Cosmetics, 2P Original Cosmetics, Sasi, and Laka.
@@ -1398,15 +1417,15 @@ users.
 > -There are three categories of products, including Lips, Eyeshadow,
 > and Blush.
 >
-> \- The Cosmetics brands and products information scraped from Konvy,
-> the shopping online website.
+> \- The products information scraped from Konvy, the shopping online
+> website.
 
 ## 5.4 System Architecture
 
 <img src="media/image31.png" style="width:6.5in;height:3.65625in"
 alt="รูปภาพประกอบด้วย แผนภาพ, ภาพหน้าจอ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102579" class="anchor"></span>**Figure 25** System
+<span id="_Toc167848351" class="anchor"></span>**Figure 25** System
 Architecture
 
 **Description:** When users use the web server, they will interact with
@@ -1428,7 +1447,7 @@ it into MySQL database.
 
 <img src="media/image32.png" style="width:5.65625in;height:3.09375in" />
 
-<span id="_Toc166102580" class="anchor"></span>**Figure 26** Software
+<span id="_Toc167848352" class="anchor"></span>**Figure 26** Software
 Process
 
 We use Iterative model which is the software development life cycle
@@ -1447,41 +1466,37 @@ final product.
 **Feature \#1: Gather information**
 
 **Description:** Gather information is a system that gathers product
-information from outside sources and allocates data to provide the
-information to the user due to the request that they make. Product
-information are image, name, description, colors, brand (which are Cathy
-Doll, 4U2 Cosmetics, 2P Original Cosmetics, Sasi, and Laka), and
-category (which are Lips, Eyeshadows, and Blush) are gathered from
-cosmetics brand websites by Web Scraper.io. To collect this information,
-we input the Konvy web link of the page where a specific brand and
-category can be found and use Web Scraper.io to scrap the information
-include brand logo, brand name, product category, image of product
-color, image of product, and description. Information like collection
-name and color name use python to tokenizer from description. And
-information like product color will be converted to RGB color using
-python. There is also season color tone information that is gathered
-from OpenAI API. By input RGB color of each product and ask which season
-color tone (Spring, Summer, Autumn, Winter) of each color and match the
-season color tone with product by the answer from OpenAI. After that,
-all product information from both Web Scraper.io and OpenAI API will be
-storge in MySQL and will be updated every month using the same method.
+information from outside sources, allocates data and puts the data in
+MySQL database, so after that system can provide the information from
+database to the user due to the request that they make in feature 2.
+Product information from Konvy includes product name, brand logo, brand
+name, product category, product color shade, product image, and product
+description are gathered from cosmetics brand websites by Web
+Scraper.io. To collect this information, we input the Konvy web link of
+the page where a specific brand and category can be found and use Web
+Scraper.io to scrap the information. Information like collection name
+and color name use python to tokenizer from description. And information
+like product color will be converted to RGB color using python. There is
+also season color tone information that is gathered from OpenAI API. By
+input RGB color of each product and ask which season color tone (Spring,
+Summer, Autumn, Winter) of each color and match the season color tone
+with product by the answer from OpenAI. After that, all product
+information from both Web Scraper.io and OpenAI API will be storge in
+MySQL and will be updated every month using the same method.
 
 **Feature \#2: Recommended product**
 
-**Description:** Recommended product is a system that get product
-information including Cathy Doll, 4U2 Cosmetics, 2P Original Cosmetics,
-Sasi, and Laka from database to user by the request they make. Users can
-choose the season color tone that they like with category including
-Lips, Eyeshadow, and Blush, and the system will recommend the set of
-color shade from each product to users due to season color tone and
-category that user choose. Once user choose on any color shade from the
-set, the system will show the product that has that color shade to the
+**Description:** Recommended product is a system that gets product
+information from database to user by the request they make. Users can
+choose the season color tone that they like with product category
+including Lips, Eyeshadow, and Blush, and the system will recommend the
+set of color from each product to users due to season color tone and
+product category that user choose. Once user choose on any color from
+the set, the system will show the product that has that color to the
 user. Users can also insert product brand and category, and the system
 will return a list of products in that brand and category for user.
 Users can select the product from both ways (by brand or season color
-tone) and the system will return that product information include
-product personal color, image, name, description, colors, brand, and
-category for user.
+tone) and the system will return that product information to the user.
 
 **Feature \#3: Virtual simulation**
 
@@ -1491,32 +1506,34 @@ on. After the user inserts their image, the system will detect eyes,
 mouth, and cheeks by OpenCV from the image to determine the position and
 scale. Users can input information like product category and color, then
 the system will replace the color that the user chose in the position of
-the selected category.
+the selected product category.
 
 ## 5.7 User Journey
 
-The User Journey displays the action of users within our web server as
-the steps that user may experiences while getting to their goal.
+The user journey displays the action of users within our website as the
+steps that user may experiences while getting to their goal.
 
-<img src="media/image33.png" style="width:4.71568in;height:3.80882in" />
+<img src="media/image33.png" style="width:3.76934in;height:5.53914in"
+alt="รูปภาพประกอบด้วย ข้อความ, ใบหน้าของมนุษย์, ภาพหน้าจอ, เว็บไซต์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102581" class="anchor"></span>**Figure 27** UI-001:
+<span id="_Toc167848353" class="anchor"></span>**Figure 27** UI-001:
 Homepage
 
-On the Homepage, users can choose on two main paths which will lead to
-different usage. If the user clicks on the Match Color link, the system
-will link the user to UI-002. It will ask the user to insert their image
-and focus on suggest product based on season color tone that user
-choose. On the other hand, if user wants to explore the product by
-themself, they can click on Product link which will lead user to List of
-brands in UI-006 so they can look for product they like on each brand.
-Users can also see some of the new products on this page, user can click
-on any product, and it will directly link to the UI-009 of that product.
+On Homepage (UI-001), on top of the page, user can see the introduction
+part of FindColor. Then under the introduction part, user can see the
+information of season color tone and makeup tone. On navbar, user can
+choose on two main paths which will lead to different usage. If the user
+clicks on the Get Seasons link, the system will link the user to UI-002.
+It will ask the user to insert their image and focus on suggest product
+based on season color tone that user choose. On the other hand, if the
+user wants to explore the product by themself, they can click on Product
+link which will lead user to List of brands in UI-006 so they can look
+for product they like on each brand.
 
-<img src="media/image34.png" style="width:4.88511in;height:3.95139in"
+<img src="media/image34.png" style="width:4.12465in;height:3.33628in"
 alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ซอฟต์แวร์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102582" class="anchor"></span>**Figure 28** UI-002:
+<span id="_Toc167848354" class="anchor"></span>**Figure 28** UI-002:
 Upload Image page
 
 On the Upload Image page, users can choose an image from their device,
@@ -1524,49 +1541,53 @@ take a photo or drag image from the outside source and drop in here to
 insert to system. System will link user to UI-003 after it get their
 image.
 
-<img src="media/image35.png" style="width:4.81391in;height:4.10716in"
-alt="รูปภาพประกอบด้วย ภาพหน้าจอ, ข้อความ, ไลน์, จำนวน คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image35.png" style="width:4.19044in;height:3.57522in"
+alt="รูปภาพประกอบด้วย ใบหน้าของมนุษย์, ยิ้ม, ข้อความ, ภาพหน้าจอ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102583" class="anchor"></span>**Figure 29** UI-003:
+<span id="_Toc167848355" class="anchor"></span>**Figure 29** UI-003:
 Choose Color Tone page
 
-Users can choose one out of four season color tones on top of the page,
-each one represents one season (Spring, Summer, Autumn, Winter). Once
-the user selects on any season color tone, the user image at the left
-side of the page will have color palette popup around with the
-description of that season color tone popup under ‘Spring Summer Autumn
-Winter’ bar. Each color in the palette comes from the color shade of
-makeup product in that season color tone. Users can take a look and
-choose which season color tone matches them the most. After they can
-decide which season color tone they want, they can click the button on
-the bottom to go to the next step, UI-004.
+On UI-003, Users can choose one out of four season color tones on top of
+the page. Once the user selects on any season color tone, the user image
+at the left side of the page will have color palette around on the
+background. On the right side, there will be the description about the
+makeup tone of that season color tone under ‘Spring Summer Autumn
+Winter’ bar. Each color in the background behind the image the user
+uploads come from the color in the makeup tone of that season color
+tone. Users can take a look and choose which season color tone matches
+them the most. After they can decide which season color tone they want,
+they can click the button on the ‘Next’ bottom to go to the next step,
+UI-004.
 
-<img src="media/image36.png" style="width:4.45432in;height:3.60294in"
-alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ไลน์, จำนวน คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image36.png" style="width:4.19343in;height:3.48485in"
+alt="รูปภาพประกอบด้วย ใบหน้าของมนุษย์, ข้อความ, คน, ยิ้ม คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102584" class="anchor"></span>**Figure 30** UI-004:
+<span id="_Toc167848356" class="anchor"></span>**Figure 30** UI-004:
 Virtual Try-On page
 
-Virtual Try-On page has user image from UI-002, makeup category (Lips,
-Eyeshadow, Blush) and the set of colors in the circle under category.
-Each color comes from makeup products in selected category that have
-color match with the season color tone that user choose in UI-003.
+Virtual Try-On page (UI-004) has user image from UI-002, makeup category
+(Lips, Eyeshadow, Blush) and the set of colors in the circle under the
+category bar. Each color comes from makeup products in selected category
+that have color match with the season color tone that user choose in
+UI-003.
 
-<img src="media/image37.png" style="width:4.5in;height:3.63989in"
-alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ไลน์, แผนภาพ คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image37.png" style="width:4.30968in;height:3.58145in"
+alt="รูปภาพประกอบด้วย ใบหน้าของมนุษย์, ข้อความ, ยิ้ม, คน คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102585" class="anchor"></span>**Figure 31** UI-005:
+<span id="_Toc167848357" class="anchor"></span>**Figure 31** UI-005:
 Virtual Try-On of Select color page
 
-When user select any color in UI-004, the screen will show the product
-information of the product that has the color that user selects. User
-image will also change, system will generate user in the image with
-makeup by category and color that user choose.
+When the user selects any color in UI-004, the screen will show the
+product information of the product that has the color that the user
+selects. User image will also change, the system will generate a user in
+the image with makeup by category and color that the user chooses, as
+shown in UI-005. And the user can scroll left on the set of color to
+view more colors.
 
-<img src="media/image38.png" style="width:5.01389in;height:4.05556in"
-alt="รูปภาพประกอบด้วย ภาพหน้าจอ, ไลน์, ข้อความ, แผนภาพ คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image38.png" style="width:4.30305in;height:3.50442in"
+alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ซอฟต์แวร์, ไอคอนคอมพิวเตอร์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102586" class="anchor"></span>**Figure 32** UI-006:
+<span id="_Toc167848358" class="anchor"></span>**Figure 32** UI-006:
 List of Cosmetics Brands page
 
 The List of Cosmetics Brands page can be accessed directly from the
@@ -1575,10 +1596,10 @@ list of cosmetics brands with logo brands that are scrapped with Web
 Scraper.io. When user clicks on any brand, system will show the list of
 products of that brand just like in page UI-007
 
-<img src="media/image39.png" style="width:5.01389in;height:4.05556in"
-alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ไลน์, แผนภาพ คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image39.png" style="width:4.39394in;height:3.96793in"
+alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ซอฟต์แวร์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102587" class="anchor"></span>**Figure 33** UI-007:
+<span id="_Toc167848359" class="anchor"></span>**Figure 33** UI-007:
 List of Products page
 
 In this page, the system will display list of Lips, Blush, and eyeshadow
@@ -1588,48 +1609,40 @@ image, brand name, and name of the product collection which is provided
 by using Web Scraper.io. When user click on any product system will lead
 user to UI-009 to see more details of that product.
 
-<img src="media/image40.png" style="width:4.50886in;height:3.64706in"
-alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, แสดง, ไลน์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image40.png" style="width:4.42945in;height:4in" />
 
-<span id="_Toc166102588" class="anchor"></span>**Figure 34** UI-008:
+<span id="_Toc167848360" class="anchor"></span>**Figure 34** UI-008:
 List of Lip Products page
 
 From UI-007, user can select different category in the filter. In this
 case, if you choose Lips in the filter, there will be only a list of lip
 products of this brand show on screen.
 
-<img src="media/image41.png" style="width:4.86441in;height:3.92479in"
-alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ไลน์, แผนภาพ คำอธิบายที่สร้างโดยอัตโนมัติ" />
+<img src="media/image41.png" style="width:4.43636in;height:3.43612in"
+alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, ซอฟต์แวร์, การเปรียบเทียบ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102589" class="anchor"></span>**Figure 35** UI-009:
+<span id="_Toc167848361" class="anchor"></span>**Figure 35** UI-009:
 Product page
 
 On this page, the system will display the information that was scrapped
-from Web Scraper.io including image, brand, name, description and all
-available colors of the product.
+from Web Scraper.io including image, brand, name, description and color
+shade of the product. When the user clicks on any color shade in the set
+of color shades, the system will change the product image of that color
+shade and display the name of that color shade, and labels about season
+color tone that match with that color shade.
 
-<img src="media/image42.png" style="width:4.91996in;height:3.98958in" />
+<img src="media/image42.png" style="width:4.19964in;height:3.75758in" />
 
-<span id="_Toc166102590" class="anchor"></span>**Figure 36** UI-010:
-Shade No.1 of Product page
-
-When the user clicks on any color in the color set, the system will
-change the image of that color shade and display the number and name of
-that color shade, and labels about season color tone and undertone that
-match with that color shade. Users can also click Try-On button, system
-will link the user to UI-002 to insert an image and then UI-011 to see
-themselves on the screen with that makeup color.
-
-<img src="media/image43.png" style="width:5in;height:4.03846in" />
-
-<span id="_Toc166102591" class="anchor"></span>**Figure 37** UI-011:
+<span id="_Toc167848362" class="anchor"></span>**Figure 36** UI-010:
 Virtual Try-On of Select Product page
 
-After the system gets user image from UI-002, user can see that makeup
-on the face with the color that user choose on UI-010. Users can also
-choose other colors in the same product in case there is more than one
-color in that product. Once user chooses another color the makeup on the
-user face in the image will change due to that color.
+After user can click 'Try-On' button, as shown in UI-009, the system
+will link the user to UI-002 to insert an image. Then on UI-010, the
+user can use virtual try-on on color shade that user select on UI-009.
+The user can also choose other colors in the same product in case there
+is more than one color in that product. Once the user chooses another
+color, the makeup on the user's face in the image will change due to
+that color.
 
 ## 5.8 Schedule Plan
 
@@ -1716,10 +1729,10 @@ the detail of Feature #3 Virtual Simulation</td>
 </tbody>
 </table>
 
-<img src="media/image44.png" style="width:6.0411in;height:1.40443in"
+<img src="media/image43.png" style="width:6.0411in;height:1.40443in"
 alt="รูปภาพประกอบด้วย ข้อความ, ตัวอักษร, จำนวน, ไลน์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102592" class="anchor"></span>**Figure 38** Phase 1.
+<span id="_Toc167848363" class="anchor"></span>**Figure 37** Phase 1.
 Proposal
 
 **Phase 2. Progress I: 6 May 2024 – 10 June 2024 = 36 days**
@@ -1801,10 +1814,10 @@ Proposal
 </tbody>
 </table>
 
-<img src="media/image45.png" style="width:5.87671in;height:2.7726in"
+<img src="media/image44.png" style="width:5.87671in;height:2.7726in"
 alt="รูปภาพประกอบด้วย ข้อความ, จำนวน, ตัวอักษร, ไลน์ คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102593" class="anchor"></span>**Figure 39** Phase 2.
+<span id="_Toc167848364" class="anchor"></span>**Figure 38** Phase 2.
 Progress I
 
 **Phase 3. Progress II: 28 June 2024 – 26 August 2024 = 60 days**
@@ -1879,10 +1892,10 @@ Progress I
 </tbody>
 </table>
 
-<img src="media/image46.png" style="width:5.4445in;height:1.89394in"
+<img src="media/image45.png" style="width:5.4445in;height:1.89394in"
 alt="รูปภาพประกอบด้วย ข้อความ, ไลน์, จำนวน, ตัวอักษร คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102594" class="anchor"></span>**Figure 40** Phase 3.
+<span id="_Toc167848365" class="anchor"></span>**Figure 39** Phase 3.
 Progress II
 
 **Phase 4. Final Progress: 12 September 2024 – 15 October 2024 = 34
@@ -1937,10 +1950,10 @@ days**
 </tbody>
 </table>
 
-<img src="media/image47.png" style="width:5.21212in;height:2.07427in"
+<img src="media/image46.png" style="width:5.21212in;height:2.07427in"
 alt="รูปภาพประกอบด้วย ข้อความ, ภาพหน้าจอ, จำนวน, ตัวอักษร คำอธิบายที่สร้างโดยอัตโนมัติ" />
 
-<span id="_Toc166102595" class="anchor"></span>**Figure 41** Phase 4.
+<span id="_Toc167848366" class="anchor"></span>**Figure 40** Phase 4.
 Final Progress
 
 # 
@@ -2014,4 +2027,65 @@ web scraping extension. Retrieved from https://webscraper.io/
 
 <sup>\[22\]</sup> SDLC (n.d). Iterative model which is the software
 development life cycle model from
-https://aws.amazon.com/th/what-is/sdlc/
+<https://aws.amazon.com/th/what-is/sdlc/>
+
+# Definition & Description
+
+\-**color shade:** Is all color from a cosmetics product
+
+\-**color:** each color in color shade( 1 product (1 color shade) may
+have many colors)
+
+\-**collection:** Group of products that the brand releases at the same
+time together.
+
+\-**color shade name:** Name of color shade of each product, help to
+identify each product in the same collection
+
+\-**product name:** The combination of collection name and color shade
+name
+
+\-**Season color tone:** color tone that been divided into 4 tones, and
+defy them by using name of season which are Spring, Summer, Autumn, and
+Winter.
+
+Note. Every color on the same color shade have the same season color
+tone
+
+\- **Makeup tone**: group of 8 main makeup colors that usually used to
+represent each season
+
+> \- <u>The makeup tone of Spring</u> is Coral, Orange, Milk Tea (Light
+> Brown nude), Peach-Pink, Salmon-Pink, Salmon, Coral-Pink, Orange
+> Peach, and Peach
+>
+> \- <u>The makeup tone of Summer</u> is Pink Nude (Pink with beige),
+> Rosy (soft pink with a hint of red), Pink, Light Blue or Sky Blue,
+> Medium Pink, Light Rose, Light Pink, and Lavender
+>
+> \- <u>The makeup tone of Autumn</u> is Orange-Red, Dark Peach, Red,
+> Brown, Red Brick or Dark Red, Orange Brick or Dark Orange, Tomato or
+> Warm Red, and Warm Orange
+>
+> \- <u>The makeup tone of Winter</u> is Dark Pink, Burgundy (Red and
+> Purple with a hint of brown), Berry (Red and Purple), True Red (No
+> orange tone), Plum (Dark Purple), Fuchsia (pink and purple with a hint
+> of red), Dark Plum, and Medium Plum.
+
+\-**Product preview:** is the box of content shown on the web page with
+short product information include product name, brand name, and product
+image
+
+-Product information we put in MySQL database (from Konvy and OpenAI)
+include ‘product name, brand logo, brand name, product category, product
+color shade, product image, product description, and product season
+color tone’ as shown below
+
+<img src="media/image47.png" style="width:6.25in;height:0.78125in" />
+
+\-**Product information from Konvy:** include ‘product name, brand logo,
+brand name, product category, product color shade, product image, and
+product description’
+
+\-**Product information from OpenAI:** include ‘product season color
+tone’
